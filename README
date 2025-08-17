@@ -5,5 +5,5 @@ nodemon ./app.js
 access:
 http://localhost:3001/dhcpRequest/
 
-This is a real script example ( still under construction ) for rendering of DHCP requests in the IP network.
+Fetch and render tcpdump messages with Node.js, Express, and Handlebars
 
